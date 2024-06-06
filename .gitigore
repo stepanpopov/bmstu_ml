@@ -6,7 +6,7 @@ node_modules/
 *.tsbuildinfo
 .DS_Store
 
-eda/.ipynb_checkpoints/
+**/.ipynb_checkpoints/**
 eda/.ipynb_checkpoints
 
 # Created by https://www.gitignore.io/api/python
